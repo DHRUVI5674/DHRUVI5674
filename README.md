@@ -32,7 +32,7 @@
 
 ---
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvi-patel-bb2b9239a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/dhruvipatel5674) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/patel_dhru76113) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dhruvi_patel_6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvipatel5674@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvi-patel-bb2b9239a) [![LeetCode](https://img.shields.io/badge/LeetCode-%23006587.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/TR0kHGhQN9/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/patel_dhru76113) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dhruvi_patel_6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvipatel5674@gmail.com)
  
 
 # 📊 GitHub Stats:
