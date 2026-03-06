@@ -1,4 +1,11 @@
-# 💫 Hi 👋, I'm Dhruvi Patel  
+<h1 align="center">Hi 👋, I'm DHRUVI PATEL</h1>
+<h3 align="center">💻 Computer Engineering Student | 🚀 Frontend Developer</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Learner;UI+Designer;Open+Source+Learner&center=true&width=500&height=45">
+</p>
+
+--- 
 
 🎨 **UI/UX Designer** | ⚙️ **Backend Developer** | 🌐 **Full-Stack Web Developer**  
 🏫 **Student At CodingGita × Swaminarayan University**  
@@ -35,6 +42,18 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode&logoColor=white)
 
 --- 
+# 🚀 Website Clone Projects
+
+| Website | Live Demo |
+|-------|-----------|
+| Isro Clone | https://website-clone-isro.netlify.app/ |
+| SquareSpace Clone | https://website-clone-squarespace.netlify.app/ |
+| Nestroot Clone | https://website-clone-nestroots.netlify.app/ |
+| Ruggable Clone | https://website-clone-ruggable.netlify.app/ |
+| Ninjacart Clone | https://website-clone-ninjacart.netlify.app/ |
+| Kava Clone | https://website-clone-kava.netlify.app/ |
+
+---
 
 # 📊 GitHub Stats:
 
