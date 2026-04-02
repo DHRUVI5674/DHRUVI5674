@@ -89,16 +89,7 @@
 <h1 align="center">📊 GITHUB ANALYTICS</h1>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DHRUVI5674&show_icons=true&theme=radical&include_all_commits=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DHRUVI5674&theme=radical"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUVI5674&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DHRUVI5674&theme=react-dark"/>
 </p>
 
 ---
