@@ -1,125 +1,110 @@
-<h1 align="center">Hi 👋, I'm DHRUVI PATEL</h1>
-<h3 align="center">💻 Computer Engineering Student</h3>
+<h1 align="center">Hi 👋, I'm Dhruvi Patel</h1>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Backend+Learner;Creative+Thinker&center=true&width=800&height=80&size=32">
+</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Learner;UI+Designer;Open+Source+Learner&center=true&width=500&height=45">
-</p>
-
---- 
-
-🎨 **UI/UX Designer** | ⚙️ **Backend Developer** | 🌐 **Full-Stack Web Developer**  
-🏫 **Student At CodingGita × Swaminarayan University**  
-📅 **Batch: 2025–2029**
-
-🌱 Exploring technology and learning new things every day 🚀<br>🌟 Designing experiences. Building logic. Creating complete web solutions.
-
----
-
-## 🧠 Programming Languages  
-![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvi-patel-bb2b9239a) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23006587.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/TR0kHGhQN9/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/patel_dhru76113) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dhruvi_patel_6) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvipatel5674@gmail.com)
-
----
-
-## 🛠️ Tech Stack  
-
-### 🎨 UI / UX Design  
-![Figma](https://img.shields.io/badge/Figma-black?logo=figma&logoColor=white)
-![Wireframing](https://img.shields.io/badge/Wireframing-Design-blue)
-![Prototyping](https://img.shields.io/badge/Prototyping-UX-green)
-
-### 🌐 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-
-### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white)
-
-### 🗄️ Database  
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white)
-
-### 🔧 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-
---- 
-# 🚀 Website Clone Projects
-
-| Website | Live Demo |
-|-------|-----------|
-| Isro Clone | https://website-clone-isro.netlify.app/ |
-| SquareSpace Clone | https://website-clone-squarespace.netlify.app/ |
-| Nestroot Clone | https://website-clone-nestroots.netlify.app/ |
-| Ruggable Clone | https://website-clone-ruggable.netlify.app/ |
-| Ninjacart Clone | https://website-clone-ninjacart.netlify.app/ |
-| Kava Clone | https://website-clone-kava.netlify.app/ |
-
----
-
-# 📊 GitHub Stats:
-
-<div align="center">
-
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DHRUVI5674&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DHRUVI5674&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DHRUVI5674&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DHRUVI5674&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DHRUVI5674&theme=radical&utcOffset=8">
-
-</div>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DHRUVI5674&theme=dark&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DHRUVI5674&theme=dark"/>
+  <img src="https://komarev.com/ghpvc/?username=DHRUVI5674&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/DHRUVI5674?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/DHRUVI5674?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake  
+<h1 align="center">👩‍💻 ABOUT ME</h1>
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<table>
+<tr>
+<td width="55%">
+
+- 💻 Passionate Full Stack Developer  
+- 🚀 Exploring Backend & System Design  
+- 🛠️ Building scalable real-world applications  
+- 🎨 Focused on clean UI & performance  
+- 🧠 Strong in DSA & problem solving  
+- 🤝 Love teamwork & collaboration  
+- 🌱 Always learning new tech  
+- ✨ Creative + Logical thinker  
+
+</td>
+
+<td width="45%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DHRUVI5674&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+<h1 align="center">🌐 CONNECT WITH ME</h1>
 
----
-
-## 🏆 Achievements
-
-Here are some of my milestones and accomplishments so far:
 <p align="center">
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100" />
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="100" />
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100" />
+  <a href="https://github.com/DHRUVI5674"><img src="https://img.shields.io/badge/GitHub-DHRUVI5674-181717?style=for-the-badge&logo=github"/></a>
+  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/dhruvi-patel-bb2b9239a/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="[https://twitter.com/your-username](https://x.com/patel_dhru76113)"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"/></a>
+  <a href="mailto:dhruvipatel@gmail.com"><img src="https://img.shields.io/badge/Email-Send-D14836?style=for-the-badge&logo=gmail"/></a>
+  <a href="[https://leetcode.com/your-username](https://leetcode.com/u/TR0kHGhQN9/)">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 </p>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h1 align="center">⚡ TECH STACK</h1>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-FFCA28?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify"/>
+</p>
 
 ---
 
-## ✨ Learning Philosophy  
+<h1 align="center">📊 GITHUB ANALYTICS</h1>
 
-> *“Learn something new every day and improve step by step.”* 🌱  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DHRUVI5674&show_icons=true&theme=radical&include_all_commits=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DHRUVI5674&theme=radical"/>
+</p>
 
-⭐ Thanks for visiting my GitHub profile!
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUVI5674&layout=compact&theme=radical"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DHRUVI5674&theme=react-dark"/>
+</p>
+
+---
+
+<h1 align="center">⭐ SUPPORT</h1>
+
+<p align="center">
+⭐️ If you like my work, consider giving a star to my repositories!
+</p>
