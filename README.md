@@ -42,13 +42,18 @@
 <h1 align="center">🌐 CONNECT WITH ME</h1>
 
 <p align="center">
-  <a href="https://github.com/DHRUVI5674"><img src="https://img.shields.io/badge/GitHub-DHRUVI5674-181717?style=for-the-badge&logo=github"/></a>
-  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/dhruvi-patel-bb2b9239a/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="[https://twitter.com/your-username](https://x.com/patel_dhru76113)"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"/></a>
-  <a href="mailto:dhruvipatel@gmail.com"><img src="https://img.shields.io/badge/Email-Send-D14836?style=for-the-badge&logo=gmail"/></a>
-  <a href="[https://leetcode.com/your-username](https://leetcode.com/u/TR0kHGhQN9/)">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+
+  <a href="mailto:dhruvipatel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+
+  <a href="portfolio-red-eta-1hudq6yoxy.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=vercel"/>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1LQFm1HmsJxDw9cZnLp24CQLwutL-PMsg/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-View-4CAF50?style=for-the-badge&logo=googledrive"/>
+  </a>
 </p>
 
 ---
